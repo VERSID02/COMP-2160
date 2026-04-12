@@ -1,3 +1,81 @@
 <resources>
     <string name="app_name">French Quiz Application</string>
+
+    <!-- Header of Subjects-->
+    <String name="Math_Header"> Mathematic </String>
+    <String name="Science_Header"> Science </String>
+    <String name="French_Header"> French Language </String>
+    <String name="History_Header"> History </String>
+
+    <!-- Math Questions for Beginner -->
+    <String name="MQB1"> 1) What's 93 + (2 x 20) - 15? </String>
+    <String name="MQB2"> 2) What's 5/2 * 5 + 75? </String>
+
+    <!-- Math choices for Beginner -->
+
+
+    <!-- Math Questions for Advanced -->
+    <String name="MQA1"> </String>
+
+    <!-- Math choices for Advanced -->
+
+
+
+    <!--/////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+    <!-- Science Questions for Beginner -->
+    <String name="SQB1"> </String>
+
+
+    <!-- Science choices for Beginner -->
+
+
+    <!-- Science Questions for Advanced -->
+    <String name="SQA1"> </String>
+
+    <!-- Science choices for Advanced -->
+
+
+
+    <!--/////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+    <!-- French Questions for Beginner -->
+    <String name="FQB1"> </String>
+
+
+    <!-- French choices for Beginner -->
+
+
+    <!-- French Questions for Advanced -->
+    <String name="FQA1"> </String>
+
+
+    <!-- French choices for Advanced -->
+
+
+
+    <!--/////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+    <!-- History Questions for Beginner -->
+    <String name="HQB1"> </String>
+
+    <!-- History choices for Beginner -->
+
+
+    <!-- History Questions for Advanced -->
+    <String name="HQA1"> </String>
+
+    <!-- History choices for Advanced -->
+
+
+
+    <!--/////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
 </resources>
