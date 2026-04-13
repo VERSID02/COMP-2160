@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">French Quiz Application</string>
+    <string name="app_name">Education Quiz Application</string>
 
     <!-- Header of Subjects-->
     <String name="Math_Header"> Mathematical </String>
