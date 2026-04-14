@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Education Quiz Application</string>
 
+    <!-- Header for score -->
+
+    <!-- Use for multiple time show the result each time  -->
+    <String name="userScore"> Your score </String>
+
+
     <!-- Header of Subjects-->
     <String name="Math_Header"> Mathematical </String>
     <String name="Science_Header"> Science </String>
